@@ -7,4 +7,9 @@ This is a site to support the workshop series [RDM & TDM in JupyterHub with News
    
 More information is available at the [workshop site](https://leddy.uwindsor.ca/rdm-tdm-jupyterhub-newspapers).
 
-We are also hosting a newspaper data challenge for March 2023, [see the details here](https://github.com/ADC-RDM/DataChallenge).
+Please see the related newspaper data challenge for March 2023, [view the details here](https://github.com/ADC-RDM/DataChallenge).
+
+We are also pleased to present original research carried out using the newspaper data assembled for this project:
+   * [Using OCR Text Mining and NMF Topic Modeling to Analyze Historical Newspaper](https://github.com/vasighiz/TDMnewspapers-NMF) - courtesy of [Akram Vasighizaker](https://github.com/vasighiz). 
+
+Our thanks to [Compute Ontario](https://www.computeontario.ca/) for funding our event series and supporting our graduate student researchers.
