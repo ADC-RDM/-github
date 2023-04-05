@@ -11,6 +11,6 @@ Please see the related newspaper data challenge for March 2023, [view the detail
 
 We are also pleased to present original research carried out using the newspaper data assembled for this project:
    * [Using OCR Text Mining and NMF Topic Modeling to Analyze Historical Newspaper](https://github.com/vasighiz/TDMnewspapers-NMF) - courtesy of [Akram Vasighizaker](https://github.com/vasighiz). 
-   * [Sentiment Analysis (Semantic Search and Topic Modeling by LDA)](https://github.com/sdeenm/Sentiment-Analysis) - courtesy of [Sumaiya Deen Muhammad](https://github.com/sdeenm)
+   * [Sentiment Analysis (Semantic Search and Topic Modeling by LDA)](https://github.com/sdeenm/Sentiment-Analysis) - courtesy of [Sumaiya Deen Muhammad](https://github.com/sdeenm).
 
 Our thanks to [Compute Ontario](https://www.computeontario.ca/) for funding our event series and supporting our graduate student researchers.
