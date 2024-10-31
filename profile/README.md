@@ -1,4 +1,4 @@
-# Welcome to the Academic Data Centre (ADC) GitHub site (Leddy Library, University of Windsor)
+# Welcome to Research Data & Statistical Services GitHub site (Leddy Library, University of Windsor)
 
 This is a site to support the workshop series [RDM & TDM in JupyterHub with Newspapers](https://leddy.uwindsor.ca/rdm-tdm-jupyterhub-newspapers)
    * [Introduction to JupyterHub](https://github.com/ADC-RDM/using-jupyter) (Tuesday, February 21, 2023)
